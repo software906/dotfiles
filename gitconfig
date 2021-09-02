@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = danieleduardovasquezgarcia@gmail.com
+	name = daniel vasquez
